@@ -1,0 +1,102 @@
+kiwi /키위
+whale/고래
+bird /새
+cat /고양이
+puppy /강아지
+mickey/미키 마우스
+violin /바이올린
+bag /가방 
+scissors /가위
+potato /감자
+frog /개구리
+police car	/경찰차
+ant /개미
+firewagon/소방차
+building /건물
+crab /게
+person /사람 
+egg /계란
+calculator /계산기
+sweet potato/고구마
+chili /고추
+phone booth /공중전화
+high heels /하이힐
+krong /크롱
+Gimbap /김밥
+kimchi /김치
+kimchi stew /김치찌개
+bus /버스
+butterfly/ 나비
+basketball /농구공
+compass /나침반
+car /자동차
+refrigerator /냉장고
+laptop /노트북
+frying pan /프라이팬
+bridge/ 다리
+button /단추
+moon /달
+hamster/ 햄스터
+carrot /당근
+lunch box /도시락
+money /지폐
+pig /돼지
+doenjang stew /된장찌개
+strawberry /딸기
+peanut /땅콩
+sandwich /샌드위치
+garlic /마늘
+lemon /레몬
+tteokbokki /떡볶이
+mic /마이크
+dumpling /만두
+horse /말
+telescope /망원경
+cow /소
+watermelon /수박
+rose of sharon /무궁화
+sheep /양
+fish /물고기
+banana /바나나
+glasses /안경
+ship /배
+traffic light /신호등
+socks /양말
+pillow /베개
+bench /벤치
+watch /시계
+chick /병아리
+copy machine /복사기
+peach /복숭아
+bowling /볼링핀
+pen /볼펜
+fan /선풍기
+sofa /소파
+coin /동전
+airplane /비행기
+comb /빗
+apple /사과
+deer /사슴
+lion /사자
+camera /사진기
+pencil /연필
+train /열차
+umbrella /우산
+soccer ball /축구공
+hanbok /여자 한복
+bicycle /자전거
+sports shoes /운동화
+corn /옥수수
+chair /의자
+pizza /피자
+rabbit /토끼
+iron /다리미
+gloves /장갑01
+sausage /소시지
+pororo /뽀로로
+piano /피아노
+t-shirt /티셔츠
+table /식탁
+pencil /연필
+sweater /스웨터
+ambulance /구급차
