@@ -1,0 +1,27 @@
+<?php
+
+    $screenshot = $_FILES['fileToUpload']['name'];
+    $target = '/home/team63/darknet/data/'.$screenshot;
+    $tmp_name = $_FILES['fileToUpload']['tmp_name'];
+    move_uploaded_file($tmp_name, $target);
+
+    rename($target,'/home/team63/darknet/data/'."new_file.jpg");
+
+    echo '<html>
+              <head>
+                <link rel="stylesheet" type="text/css" href="test.css">
+                saved!!<br/><br/>
+               <form name = "select" method="post" enctype="multipart/form-data">
+                <h1>click button to detect:</h1>
+                <input type="button" value="upload Image" onClick="mySubmit(2)">
+               </form>
+              </head>
+          </html>';
+
+    echo '<script>
+              function mySubmit(index){
+                if(index=2){ document.select.action="try2.php";}
+                document.select.submit();
+              }
+          </script>';
+?>
